@@ -1,4 +1,4 @@
-# BeeCrowd
+# BeeCrowd 🐝˚ ༘
 
   ***My simple solutions to programming challenges on the BeeCrowd platform (formerly known as URI) will be stored here in this repository.***
 
